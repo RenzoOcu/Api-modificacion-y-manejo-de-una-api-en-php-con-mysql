@@ -1,0 +1,15 @@
+//verificacion de una base de datos mysql de udemy con xamp//http://localhost/api-rest/api-rest%20(1)/
+
+
+    //errores tomados en cuenta:
+    -verificacion de las tablas nombre y apellido que fallaban 
+    -columnas faltantes
+    -informacion perdida 
+    -precios etc
+
+    //recomendaciones 
+
+    -------------------------------tener presente no cerrar bruscamente con "p>"
+
+
+
